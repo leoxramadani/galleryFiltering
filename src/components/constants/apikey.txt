@@ -1,0 +1,1 @@
+the movie db api key = 69cbe69f318e9aa465516a89ae204cf0
